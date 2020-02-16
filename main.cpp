@@ -115,7 +115,7 @@ int main()
     int * a = new int;
 
     delete a;
-    //delete a; // ** Deliberately put in to play around with Valgrind!
+    
 
 
 
